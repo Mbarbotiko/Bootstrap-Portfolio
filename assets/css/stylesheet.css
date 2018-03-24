@@ -1,0 +1,29 @@
+body{
+    background-color:lightblue;
+}
+
+.navbar-brand{
+    background-color:white;
+    color:black;
+    margin-left:100px;
+    font-size:40px;
+    
+}
+
+.links{
+    float:right;
+    padding:10px;
+    color:white;
+   
+    
+}
+
+.navbar {
+    padding-top:25px;
+    background-color:grey;
+}
+
+#profilepicture{
+    width:200px;
+    height:auto;
+}
