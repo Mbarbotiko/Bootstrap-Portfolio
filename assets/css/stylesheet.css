@@ -1,12 +1,28 @@
+
+
 body{
-    background-color:lightblue;
+    background-image: url("../imgs/concrete-texture.png");
+    
 }
 
 .navbar-brand{
-    background-color:white;
-    color:black;
-    margin-left:100px;
-    font-size:40px;
+    color:beige;
+    font-size:30px;
+    padding-bottom:50px;
+    line-height:40px;
+    word-wrap: normal;
+    margin-bottom:20px;
+   
+    
+    
+}
+
+
+
+.navbar {
+    padding-top:25px;
+    background-color:rgb(65, 62, 62);
+    text-align: center;
     
 }
 
@@ -18,12 +34,45 @@ body{
     
 }
 
-.navbar {
-    padding-top:25px;
-    background-color:grey;
-}
+
 
 #profilepicture{
     width:200px;
     height:auto;
+}
+
+.row1{
+    color:beige;
+    font-size: 10px;
+
+    
+}
+
+
+
+.container{
+    background-color:rgb(111, 175, 111);
+}
+
+
+h1.display-4{
+    font-size: 24px;
+}
+
+.btn{
+    padding:10px;
+    margin:5px;
+}
+
+a:hover{
+    color:inherit;
+}
+
+a:link{
+    color:inherit;
+    
+}
+
+a{
+    text-decoration: none;
 }
